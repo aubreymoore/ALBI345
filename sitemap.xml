@@ -7,15 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://example.com/</loc>
-  <lastmod>2017-08-21T21:00:00Z</lastmod>
+  <lastmod>2017-08-21T22:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/2015/</loc>
   <lastmod>2017-08-21T19:58:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/2017/</loc>
-  <lastmod>2017-08-20T21:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/about/</loc>
@@ -108,14 +104,6 @@
  <url>
   <loc>https://example.com/blog/lab16/</loc>
   <lastmod>2017-08-21T20:42:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/blog/lecture-1-introduction-to-entomology/</loc>
-  <lastmod>2017-08-20T21:05:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/blog/lecture-2-introduction-to-entomology-continued/</loc>
-  <lastmod>2017-08-20T21:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/blog/lecture-5-insect-morphology-inside-and-out/</loc>
@@ -235,11 +223,7 @@
  </url>
  <url>
   <loc>https://example.com/categories/</loc>
-  <lastmod>2017-08-21T20:42:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/cat_lectures/</loc>
-  <lastmod>2017-08-21T19:58:00Z</lastmod>
+  <lastmod>2017-08-21T22:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/lab/</loc>
@@ -248,10 +232,6 @@
  <url>
   <loc>https://example.com/categories/lecture/</loc>
   <lastmod>2017-08-20T21:05:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/lectures/</loc>
-  <lastmod>2017-08-21T20:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/galleries/</loc>
