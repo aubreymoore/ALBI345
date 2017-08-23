@@ -1,5 +1,5 @@
-Title: Lecture 7 - Metamorphosis
-Date: 2015-09-10
+Title: Lecture 7: Metamorphosis
+Date: 09/07/2017 11:00:00 AM
 Tags: lecture
 
 

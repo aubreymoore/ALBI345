@@ -1,5 +1,5 @@
-Title: Lecture 19 - Insect Ecology - Mimicry
-Date: 2015-10-27
+Title: Lecture 19: Insect Invasions on Guam Ireview for Exam 2
+Date: 10/24/2017 11:00:00 AM
 Tags: lecture
 
 

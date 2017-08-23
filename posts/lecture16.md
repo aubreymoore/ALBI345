@@ -1,5 +1,5 @@
-Title: Lecture 16 - Insect Ecology - Insect Ecology - Population Dynamics
-Date: 2015-10-15
+Title: Lecture 16: Insect Ecology - Social Insects
+Date: 10/12/2017 11:00:00 AM
 Tags: lecture
 
 

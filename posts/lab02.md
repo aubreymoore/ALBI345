@@ -1,5 +1,5 @@
-Title: Lab 2: Intro to Collecting Insects Continued
-Date: 2015-08-31
+Title: Lab 2: Special techniques -spreading moths and butterflies - pointing small insects
+Date: 08/28/2017 12:30:00 PM
 Tags: lab
 
 

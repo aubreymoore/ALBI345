@@ -28,4 +28,9 @@ to **conf.py**::
       'markdown.extensions.meta'
   ]
 
-Now, for something else.
+Scheduling
+----------
+
+**calendar.csv** contains a list of dates and times for lectures and labs in a
+format that can be imported into Google calendars. Start dates and times are
+included in the metadata for each lecture and lab.

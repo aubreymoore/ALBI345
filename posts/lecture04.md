@@ -1,5 +1,5 @@
-Title: Lecture 4
-Date: 2015-09-01
+Title: Lecture 4: Invasion of the Land
+Date: 08/29/2017 11:00:00 AM
 Tags: lecture
 
 ### Video:

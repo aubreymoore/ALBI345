@@ -1,3 +1,3 @@
-Title: Lab 7
-Date: 2015-10-05
+Title: Lab 7: Proposals for Research Projects
+Date: 10/09/2017 12:30:00 PM
 Tags: lab

@@ -1,5 +1,5 @@
-Title: Lecture 23 - Review for Exam 2
-Date: 2015-11-12
+Title: Lecture 23: Urban Entomology
+Date: 11/14/2017 11:00:00 AM
 Tags: lecture
 
 

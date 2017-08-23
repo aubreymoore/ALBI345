@@ -1,5 +1,5 @@
-Title: Lecture 24 - Economic Entomology and Pest Control
-Date: 2015-11-17
+Title: Lecture 24: Medical Entomology
+Date: 11/16/2017 11:00:00 AM
 Tags: lecture
 
 

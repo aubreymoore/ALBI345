@@ -1,5 +1,5 @@
-Title: Lecture 22 - First detector Training
-Date: 2015-11-10
+Title: Lecture 22: Economic Entomology and Pest Control
+Date: 11/09/2017 11:00:00 AM
 Tags: lecture
 
 
