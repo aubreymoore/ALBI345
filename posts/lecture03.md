@@ -3,7 +3,7 @@ Date: 08/24/2017 11:00:00 AM
 Tags: lecture
 
 ### Handout:
-[Our Island's Insects and Their Relatives]({filename}/pdfs/InsectBiology.pdf)
+[Our Island's Insects and Their Relatives](/pdfs/InsectBiology.pdf)
 
 ### Insects of Micronesia
 <http://hbs.bishopmuseum.org/pubs-online/iom.html>

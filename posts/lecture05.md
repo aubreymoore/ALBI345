@@ -9,4 +9,4 @@ The material in this lecture is covered by a chapter in your Field Guide:
 * The Structure of Insects p. 29
 
 ### PowerPoint Presentation:
-[External Morphology]({filename}/pdfs/AG345 ext morph 2003 (Zack).ppt)
+[External Morphology](/pdfs/AG345 ext morph 2003 (Zack).ppt)

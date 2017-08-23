@@ -7,6 +7,10 @@
 .. description:
 .. type: text
 
+Overview
+--------
+
+This page contains some technical notes about this site.
 
 Reusing Posts from the F2015 Pelican Site
 -----------------------------------------

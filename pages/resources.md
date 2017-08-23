@@ -9,12 +9,12 @@ date.. 2015-10-01
 
 ## Miscellaneous
 * [Insects of Micronesia](http://hbs.bishopmuseum.org/pubs-online/iom.html)
-* [Insect Collection and Preserving Insects and Mites: Tools and Techniques](pdfs/collpres.pdf)
-* [Common Insects of Guam](pdfs/common-insects-of-guam.pdf)
+* [Insect Collection and Preserving Insects and Mites: Tools and Techniques](/pdfs/collpres.pdf)
+* [Common Insects of Guam](/pdfs/common-insects-of-guam.pdf)
 * [BugGuide](http://bugguide.net)
 * [TaxonBrowser](http://guaminsects.net/taxonBrowser)
 * [Checklist of Micronesian Insects](http://guaminsects.net/mad/CheckList2.htm)
-* [Dichotomous Key for Adult Insect Orders](pdfs/Dichotomous_Key_for_Adult_Insect_Orders.pdf)
+* [Dichotomous Key for Adult Insect Orders](/pdfs/Dichotomous_Key_for_Adult_Insect_Orders.pdf)
 * [Lucid Key to Insect Orders](http://keys.lucidcentral.org/key-server/player.jsp?keyId=1)
 
 ## iNaturalist Projects

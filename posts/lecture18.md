@@ -3,4 +3,4 @@ Date: 10/19/2017 11:00:00 AM
 Tags: lecture
 
 
-[Pollination (PPT)]({filename}/pdfs/pollination.ppt)
+[Pollination (PPT)](/pdfs/pollination.ppt)

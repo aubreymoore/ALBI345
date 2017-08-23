@@ -5,9 +5,9 @@ Tags: lecture
 
 
 ### PowerPoint Presentation
-[Internal Morphology]({filename}/pdfs/AG345 internal morph 2003 (Zack).ppt)
+[Internal Morphology](/pdfs/AG345 internal morph 2003 (Zack).ppt)
 
 ### Handout
 Downloaded from <http://web.csulb.edu/~dlunderw/entomology/7-8-Internalanatomy-phy.pdf>
 
-[Internal Anatomy and Physiology]({filename}/pdfs/intAnatomy.pdf)
+[Internal Anatomy and Physiology](/pdfs/intAnatomy.pdf)

@@ -3,4 +3,4 @@ Date: 11/07/2017 11:00:00 AM
 Tags: lecture
 
 
-[Guam's Invasive Insects]({filename}/pdfs/GuamInvasiveInsectsMBP20100120.pdf)
+[Guam's Invasive Insects](/pdfs/GuamInvasiveInsectsMBP20100120.pdf)

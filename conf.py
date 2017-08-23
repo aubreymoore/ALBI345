@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
         ("/resources", "Resources"),
         ("/lecture_list", "Lectures"),
         ("/lab_list", "Labs"),
+        ("/about", "About"),
     ),
 }
 
@@ -189,6 +190,7 @@ POSTS = (
     ("posts/*.md", "blog", "post.tmpl"),
     ("posts/*.txt", "blog", "post.tmpl"),
     ("posts/*.html", "blog", "post.tmpl"),
+    ("posts/*.ipynb", "blog", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),
