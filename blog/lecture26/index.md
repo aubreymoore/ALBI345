@@ -5,4 +5,4 @@ Tags: lecture
 
 Video: Crime Scene Creatures
 
-[Presentation: Forensic Entomology Research on Guam]({filename}/pdfs/GCCForensicEntBeamer2.pdf)
+[Presentation: Forensic Entomology Research on Guam](/pdfs/GCCForensicEntBeamer2.pdf)

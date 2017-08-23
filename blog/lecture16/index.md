@@ -39,4 +39,4 @@ where:
 
 ## Lotka-Volterra Model of Interspecific Competition
 
-[Handout: Lotka-Volterra Model]({filename}/pdfs/Lotka-Volterra-Model.html)
+[Handout: Lotka-Volterra Model](/pdfs/Lotka-Volterra-Model.html)
