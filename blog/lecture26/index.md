@@ -1,5 +1,5 @@
-Title: Lecture 26 - Forensic Entomology
-Date: 2015-11-24
+Title: Lecture 26: Insects as a Human Food Source
+Date: 11/28/2017 11:00:00 AM
 Tags: lecture
 
 

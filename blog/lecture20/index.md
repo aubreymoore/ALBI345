@@ -1,5 +1,5 @@
-Title: Lecture 20 - Insect Invasions of Guam I
-Date: 2015-10-29
+Title: Lecture 20: Insect Invasions on Guam II
+Date: 11/02/2017 11:00:00 AM
 Tags: lecture
 
 

@@ -1,5 +1,5 @@
-Title: Lecture 18 - Insect Ecology - Pollination
-Date: 2015-10-22
+Title: Lecture 18: Insect Ecology - Mimicry
+Date: 10/19/2017 11:00:00 AM
 Tags: lecture
 
 

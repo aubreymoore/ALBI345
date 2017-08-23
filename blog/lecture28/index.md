@@ -1,5 +1,5 @@
-Title: Lecture 29 - Insects as Food for Humans  
-Date: 2015-12-01  
+Title: Lecture 28: TBD
+Date: 12/05/2017 11:00:00 AM
 Tags: lecture
 
 

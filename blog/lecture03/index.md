@@ -1,5 +1,5 @@
 Title: Lecture 3: Insect Biodiversity in Micronesia
-Date: 2015-08-27
+Date: 08/24/2017 11:00:00 AM
 Tags: lecture
 
 ### Handout:

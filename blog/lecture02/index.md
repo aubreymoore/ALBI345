@@ -1,5 +1,5 @@
 Title: Lecture 2: Insect Biodiversity and Taxonomy
-Date: 2015-08-25
+Date: 08/22/2017 11:00:00 AM
 Tags: lecture
 
 ### Short video on taxonomy

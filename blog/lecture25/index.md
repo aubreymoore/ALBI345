@@ -1,5 +1,5 @@
-Title: Lecture 25 - Urban Entomology  
-Date: 2015-11-19  
+Title: Lecture 25: Forensic Entomology
+Date: 11/21/2017 11:00:00 AM
 Tags: lecture
 
 

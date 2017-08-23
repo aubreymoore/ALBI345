@@ -1,5 +1,5 @@
-Title: Lab 1: Intro to Collecting Insects
-Date: 2015-08-24
+Title: Lab 1: Intro to insect collecting - tools of the trade
+Date: 08/21/2017 12:30:00 PM
 Tags: lab
 
 ### Visit to UOG Insect Collection

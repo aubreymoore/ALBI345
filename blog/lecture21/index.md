@@ -1,5 +1,5 @@
-Title: Lecture 21 - Insect Invasions of Guam II
-Date: 2015-11-05
+Title: Lecture 21: First Detector Training
+Date: 11/07/2017 11:00:00 AM
 Tags: lecture
 
 
