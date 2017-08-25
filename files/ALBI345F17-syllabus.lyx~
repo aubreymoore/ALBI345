@@ -363,6 +363,18 @@ Schedule
 \end_layout
 
 \begin_layout Standard
+This schedule is available as a 
+\begin_inset CommandInset href
+LatexCommand href
+name "Google calendar"
+target "https://calendar.google.com/calendar/embed?src=fee5fmkp5k5qdcc3ftppl09kas%40group.calendar.google.com&ctz=Pacific/Guam"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="51" columns="6">
 <features booktabs="true" islongtable="true" longtabularalignment="center">
@@ -6920,7 +6932,7 @@ Grading
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="9" columns="3">
-<features tabularvalignment="middle">
+<features booktabs="true" islongtable="true" longtabularalignment="center">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
 <column alignment="right" valignment="top">
@@ -7201,8 +7213,8 @@ Course Web Site
 \end_layout
 
 \begin_layout Itemize
-All handouts and other course resources will be available on the AL/BI 345
- web site at 
+This syllabus, all handouts and other course resources are available on
+ the AL/BI 345 web site at 
 \begin_inset Flex URL
 status open
 
