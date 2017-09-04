@@ -15,7 +15,8 @@ date.. 2015-10-01
 * [TaxonBrowser](http://guaminsects.net/taxonBrowser)
 * [Checklist of Micronesian Insects](http://guaminsects.net/mad/CheckList2.htm)
 * [Dichotomous Key for Adult Insect Orders](/pdfs/Dichotomous_Key_for_Adult_Insect_Orders.pdf)
-* [Lucid Key to Insect Orders](http://keys.lucidcentral.org/key-server/player.jsp?keyId=1)
+* [Lucid Key to Insect Orders](http://keys.lucidcentral.org/key-server/player.jsp?keyId=1) 
+	* Note that this online key is also available as a free mobile app from either the Google Play Store or Apple iTunes.
 * [Butterflies of Micronesia](http://guaminsects.myspecies.info/sites/guaminsects.myspecies.info/files/ButterfliesOfMicronesia.pdf)
 * [Newly Arrived Skipper Butterfly](/pdfs/possibleNewSkipper.pdf)
 
