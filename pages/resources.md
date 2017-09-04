@@ -16,6 +16,8 @@ date.. 2015-10-01
 * [Checklist of Micronesian Insects](http://guaminsects.net/mad/CheckList2.htm)
 * [Dichotomous Key for Adult Insect Orders](/pdfs/Dichotomous_Key_for_Adult_Insect_Orders.pdf)
 * [Lucid Key to Insect Orders](http://keys.lucidcentral.org/key-server/player.jsp?keyId=1)
+* [Butterflies of Micronesia](http://guaminsects.myspecies.info/sites/guaminsects.myspecies.info/files/ButterfliesOfMicronesia.pdf)
+* [Newly Arrived Skipper Butterfly](/pdfs/possibleNewSkipper.pdf)
 
 ## iNaturalist Projects
 * [AG-BI-345-F15](http://www.inaturalist.org/projects/ag-bi-345-f15)
