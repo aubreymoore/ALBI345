@@ -14,7 +14,8 @@ date.. 2015-10-01
 * [BugGuide](http://bugguide.net)
 * [TaxonBrowser](http://guaminsects.net/taxonBrowser)
 * [Checklist of Micronesian Insects](http://guaminsects.net/mad/CheckList2.htm)
-* [Dichotomous Key for Adult Insect Orders](/pdfs/Dichotomous_Key_for_Adult_Insect_Orders.pdf)
+* **[Dichotomous Key for Adult Insect Orders](/pdfs/Dichotomous_Key_for_Adult_Insect_Orders.pdf)**
+* [Pictorial Key to the Orders of Adult Insects](https://extension.entm.purdue.edu/401Book/pdf/order_pictorial_key.pdf)
 * [Lucid Key to Insect Orders](http://keys.lucidcentral.org/key-server/player.jsp?keyId=1)
 	* Note that this online key is also available as a free mobile app from either the Google Play Store or Apple iTunes.
 * [Butterflies of Micronesia](http://guaminsects.myspecies.info/sites/guaminsects.myspecies.info/files/ButterfliesOfMicronesia.pdf)
@@ -32,10 +33,10 @@ Access the label printer at <http://guaminsects.net/iNatLabels/>.
 ## Other Web Sites
 
 ### Local
-* [University of Guam College of Natural and Applied Sciences Research and Extension](http://cnas-re.uog.edu/)
-* [Insects of Guam (ScratchPad)](http://guaminsects.myspecies.info)
-* [Western Micronesia Invasive Species Committee Wiki](www.guaminsects.net/gisac2015)
-* [List of Insects and Mites Attacking Crops in Micronesia](https://aubreymoore.github.io/crop-pest-list/)
+* **[University of Guam College of Natural and Applied Sciences Research and Extension](http://cnas-re.uog.edu/)**
+* **[Insects of Guam (ScratchPad)](http://guaminsects.myspecies.info)**
+* **[Western Micronesia Invasive Species Committee Wiki](www.guaminsects.net/gisac2015)**
+* **[List of Insects and Mites Attacking Crops in Micronesia](https://aubreymoore.github.io/crop-pest-list/)**
 
 ### Global
-* [GBIF | Global Biodiversity Information Facility](https://www.gbif.org/)
+* **[GBIF | Global Biodiversity Information Facility](https://www.gbif.org/)**
