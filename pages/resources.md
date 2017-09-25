@@ -8,6 +8,7 @@ date.. 2015-10-01
 * [Exam1 2013](/pdfs/Exam 1.pdf)
 
 ## Miscellaneous
+* [A Pictorial Key to Orders of Adult Insects on Guam](/pdfs/guam_orders_key.pdf)
 * [Insects of Micronesia](http://hbs.bishopmuseum.org/pubs-online/iom.html)
 * [Insect Collection and Preserving Insects and Mites: Tools and Techniques](/pdfs/collpres.pdf)
 * [Common Insects of Guam](/pdfs/common-insects-of-guam.pdf)
