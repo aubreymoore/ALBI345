@@ -1,6 +1,3 @@
-Title: Lecture 20: Insect Invasions on Guam II
-Date: 11/02/2017 11:00:00 AM
+Title: Lecture 20: EXAM 2
+Date: 10/31/2017 11:00:00 AM
 Tags: lecture
-
-
-[Bioinvasion of Guam](/pdfs/BioInvasionOfGuamMBP20100119.pdf)
