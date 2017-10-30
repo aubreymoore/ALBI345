@@ -1,11 +1,6 @@
-Title: Lecture 16: Insect Ecology - Insect Population Dynamics
-Date: 12/31/2017 11:00:00 AM
+Title: Lecture 14d:  Insect Population Dynamics 1
+Date: 10/12/2017 11:00:00 AM
 Tags: lecture
-
-
-<!---
-A lecture on Semiochemicals originally scheduled for this time slot.
--->
 
 ## Exponential Growth
 
@@ -47,5 +42,8 @@ The Lotka-Volterra model is used to calculate changes in the populations of two 
 such as a predator and its prey, or an insect and its parasitoid.
 
 [An interactive Jupyter notebook which explores the Lotka-Volterra model is available here.](https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/Lotka-Volterra-Model.ipynb)
+
+https://notebooks.azure.com/n/symgGHJO7iA/notebooks/Lotka-Volterra-Model.ipynb
+
 
 [Handout: Lotka-Volterra Model](/pdfs/Lotka-Volterra-Model.html)

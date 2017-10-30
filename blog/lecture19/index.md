@@ -1,7 +1,6 @@
-Title: Lecture 19: Insect Invasions on Guam I; Review for Exam 2
-Date: 10/24/2017 11:00:00 AM
+Title: Lecture 19: Mimicry
+Date: 12/31/2017 11:00:00 AM
 Tags: lecture
-
 
 [Mimicry (PPT)](/pdfs/ent 101 mimicry.ppt)
 
