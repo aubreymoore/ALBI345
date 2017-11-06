@@ -24,7 +24,9 @@ However, most questions will be on topics covered since Exam 1.
     * r: the intrinsic rate of increase (= birth rate - death rate)
 * Logistic growth model
     * k: carrying capacity (= maximum number of individuals that can be sustained by resources)
-* r and k adapted population growth strategies
+* r and k selected reproduction strategies
+* Lotka-Volterra predator-prey model
+* x
 
 ### Applied Entomology
 
