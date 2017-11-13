@@ -5,6 +5,8 @@ date.. 2015-10-01
 
 * [Report Template on Open Science Framework](https://osf.io/az2vq/)
 
+* [First Detector Training](https://firstdetector.org/static/index.html)
+
 * [Syllabus](/ALBI345F17-syllabus.pdf)
 
 ## Past Exams
