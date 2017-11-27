@@ -2,6 +2,7 @@ title.. Resources
 stub.. Resources
 date.. 2015-10-01
 
+* [Exit Strategy](/exit_strategy.pdf)
 
 * [Report Template on Open Science Framework](https://osf.io/az2vq/)
 
